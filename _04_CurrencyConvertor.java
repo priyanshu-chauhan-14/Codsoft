@@ -8,7 +8,7 @@
 //  to the user
 import java.util.InputMismatchException;
 import java.util.Scanner;
-public class CurrencyConvertor {
+public class _04_CurrencyConvertor {
 
     // Function to get exchange rate based on base and target currency
     public static float getExchangeRate(String base, String target) {
